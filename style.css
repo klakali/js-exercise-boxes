@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 20px;
+}
+#default {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin-top: 20px;
+}
+button {
+    width: 50px;
+}
+select {
+    padding: 2px;
+}
